@@ -1,0 +1,10 @@
+.avatar {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+}
+
+.avatar img {
+	width: 200px; 
+    height: auto; 
+}
